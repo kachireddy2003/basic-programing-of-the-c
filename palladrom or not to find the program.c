@@ -9,7 +9,7 @@
 int main()
 {
 	int n,rev=0,r,pal;
-	n=5565;
+	n=5565;   //input of the number
 	pal=n;
 	while (n!=0)
 	{
