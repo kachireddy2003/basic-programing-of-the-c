@@ -1,3 +1,4 @@
+// considering minimum as the 1 and maximum as n
 //to print the amsrtrong numbers the between the given max and min 
 //logic
 //use foer loop
